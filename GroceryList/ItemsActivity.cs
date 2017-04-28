@@ -27,7 +27,7 @@ namespace GroceryList
             // TODO
 
             var intent = new Intent(this, typeof(DetailsActivity));
-            //intent.PutExtra("ItemPosition", position);
+            intent.PutExtra("ItemPosition", position);
             StartActivity(intent);
 		}
 	}

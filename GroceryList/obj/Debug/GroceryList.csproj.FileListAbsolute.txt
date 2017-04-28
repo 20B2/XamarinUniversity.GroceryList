@@ -36,6 +36,5 @@ C:\Users\bnod_\Desktop\Xamarin University\Activities and Intents\GroceryList\obj
 C:\Users\bnod_\Desktop\Xamarin University\Activities and Intents\GroceryList\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
 C:\Users\bnod_\Desktop\Xamarin University\Activities and Intents\GroceryList\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
 C:\Users\bnod_\Desktop\Xamarin University\Activities and Intents\GroceryList\obj\Debug\android\assets\System.Xml.dll.mdb
-C:\Users\bnod_\Desktop\Xamarin University\Activities and Intents\GroceryList\obj\Debug\GroceryList.csprojResolveAssemblyReference.cache
 C:\Users\bnod_\Desktop\Xamarin University\Activities and Intents\GroceryList\obj\Debug\GroceryList.dll.mdb
 C:\Users\bnod_\Desktop\Xamarin University\Activities and Intents\GroceryList\bin\Debug\GroceryList.dll.mdb
