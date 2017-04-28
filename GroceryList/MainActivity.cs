@@ -55,6 +55,8 @@ namespace GroceryList
             {
                 string name = data.GetStringExtra("ItemName");
                 int count = data.GetIntExtra("ItemCount", -1);
+
+                Items.Add(new Item(name, count));
             }
 		}
 	}

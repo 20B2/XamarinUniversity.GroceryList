@@ -28,7 +28,7 @@ namespace GroceryList
             intent.PutExtra("ItemName", name);
             intent.PutExtra("ItemCount", count);
             SetResult(Result.Ok, intent);
-            Finish();
+            base.Finish();
 		}
 
 		void OnCancelClick(object sender, EventArgs e)
